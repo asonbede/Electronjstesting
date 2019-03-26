@@ -1,0 +1,19 @@
+{
+  "name": "mainrenderer",
+  "version": "1.0.0",
+  "description": "simple web app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bede Asonye",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.8"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
